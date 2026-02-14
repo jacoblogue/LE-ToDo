@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LE-ToDo.Api/LE-ToDo.Api.csproj" />
+  <Project Path="LE-ToDo.BusinessLogic/LE-ToDo.BusinessLogic.csproj" />
+  <Project Path="LE-ToDo.DataAccess/LE-ToDo.DataAccess.csproj" />
+  <Project Path="LE-ToDo.Tests/LE-ToDo.Tests.csproj" />
+</Solution>
