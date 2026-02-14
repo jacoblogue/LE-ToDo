@@ -4,7 +4,7 @@ A simple full-stack todo list app.
 
 ## Structure
 
-- **LE-ToDo.Api** – ASP.NET Core API (.NET 10), default port `5203`
+- **LE-ToDo.Api** – ASP.NET Core API (.NET 10), default port `7298`
 - **LE-ToDo.BusinessLogic** – Business logic
 - **LE-ToDo.DataAccess** – Data access layer
 - **LE-ToDo.Tests** – Unit tests
