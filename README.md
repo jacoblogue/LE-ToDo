@@ -27,7 +27,7 @@ From the repo root:
 dotnet run --project LE-ToDo.Api
 ```
 
-API runs at `http://localhost:5203`.
+API runs at `https://localhost:7298`.
 
 ### 2. Client
 
@@ -41,4 +41,4 @@ Client runs at `http://localhost:3000`.
 
 ### 3. Environment
 
-The client calls the API using `NEXT_PUBLIC_API_URL`. Copy `le-todo-client/.env.example` to `le-todo-client/.env.local` and set the API URL (default: `http://localhost:5203`).
+The client calls the API using `NEXT_PUBLIC_API_URL`. Copy `le-todo-client/.env.example` to `le-todo-client/.env.local` and set the API URL (default: `https://localhost:7298`).
