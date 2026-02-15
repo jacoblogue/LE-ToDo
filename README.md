@@ -2,6 +2,8 @@
 
 A simple full-stack todo list app.
 
+![LE-ToDo demo – add tasks, complete, and delete](docs/demo.gif)
+
 ## Structure
 
 - **LE-ToDo.Api** – ASP.NET Core API (.NET 10), default port `7298`
